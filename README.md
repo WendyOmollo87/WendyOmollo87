@@ -4,7 +4,7 @@
 
 # Hi there, I'm Wendy Leah Omollo 👋
 
-Hi, I am a computer science student with a strong interest in applying Artificial Intelligence and Machine Learning to solve real-world organizational problems. I enjoy building practical software solutions that improve people's everyday lives. I enjoy solving real-world problems through software engineering, particularly by developing applications that combine intuitive user experiences with efficient backend systems.
+Hi, I am a computer science student with a strong interest in applying Artificial Intelligence and Machine Learning to solve real-world problems. I enjoy building practical software solutions that improve people's everyday lives. I enjoy solving real-world problems through software engineering, particularly by developing applications that combine intuitive user experiences with efficient backend systems.
 
 🔭 Current Focus: I am currently developing a recommendation system for employee welfare program personalization using K-Means clustering. The system segments employees into High, Moderate, and Low well-being clusters based on their life events and dependent-related stressors such as school fees, elderly care, bereavement, and pension concerns. The goal is to generate personalized welfare recommendations and provide HR with real-time alerts for employees requiring priority intervention.
 
